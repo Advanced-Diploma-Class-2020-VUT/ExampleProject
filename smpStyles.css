@@ -1,0 +1,18 @@
+
+input[type=button] {
+  background: lightGray;
+  
+}
+input[type=button]:active {
+  background-color: #3e8e41;
+  
+}
+input[type=button]:hover {
+  background-color: #003300;
+ 
+}
+
+input[type = text] {
+  position: relative;
+  
+}
